@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Israel Theodros!
 
+---
 ### About Me 👨‍💻
+---
 
 - 👨‍💻 **Information Systems Student (3rd Year)** at **Addis Ababa University** in Addis Ababa, Ethiopia.
 - 🌱 **ALX Data Science Course** participant, driven by an insatiable curiosity and a commitment to continuous learning. 📈
@@ -14,8 +16,8 @@
 - ⚡ Fun fact: My personal README file is probably more organized than my actual desk. Probably. 😉
 
 ---
-
 ### My Skills & Technologies 🛠️
+---
 
 Here are some of the technologies and tools I work with:
 
@@ -35,8 +37,8 @@ Here are some of the technologies and tools I work with:
 `Git` `GitHub` `Visual Studio Code`
 
 ---
-
 ### My Latest Projects 🚀
+---
 
 Here are a few projects I'm proud of or currently working on. You can link to your repositories!
 
@@ -46,9 +48,16 @@ Here are a few projects I'm proud of or currently working on. You can link to yo
   - **Link to Repository:** [https://github.com/israelseleshi/yummy-eatery](https://github.com/israelseleshi/yummy-eatery)
   - **Project URL:** [yummy-eatery.netlify.app](https://yummy-eatery.netlify.app)
 
+- #### 🖥️ Portfolio Website
+  - **Description:** A modern, responsive portfolio website built with React and Vite, designed to showcase my projects, skills, and experience as an Information Systems student and aspiring developer, featuring dynamic GitHub repo display, a downloadable CV, and dark mode.
+  - **Technologies Used:** React ⚛️, Vite ⚡, Bootstrap & React-Bootstrap 🎨, Framer Motion 🏃‍♂️, FontAwesome ⭐, Axios 🔗, ESLint 🧹.
+  - **Link to Repository:** [https://github.com/israelseleshi/portfolio](https://github.com/israelseleshi/portfolio)
+  - **Project URL:** [https://israel-theodros-portfolio.netlify.app](https://israel-theodros-portfolio.netlify.app)
+
+---
+### Connect with Me 🌐
 ---
 
-### Connect with Me 🌐
 
 You can find me on these platforms:
 
