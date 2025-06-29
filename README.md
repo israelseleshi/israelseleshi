@@ -5,7 +5,7 @@
 - 👨‍💻 **Information Systems Student (3rd Year)** at **Addis Ababa University** in Addis Ababa, Ethiopia.
 - 🌱 **ALX Data Science Course** participant, driven by an insatiable curiosity and a commitment to continuous learning. 📈
 - ➡️ Aspiring **Data Analyst / Data Scientist** – my future's looking data-rich!
-- 🙏 Christian by faith, grounded in Psalm 91:1: "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty."
+- 🙏 Christian by faith, grounded in Psalm 91:1: "**He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.**"
 - 🛋️ My top picks for binge-watching: **The Chosen** 🙏 & **Prison Break** 🏃‍♂️
 - 🤝 Open for collaboration on **data analysis, machine learning, and impactful software solutions.**
 - 💬 Let's chat about **Python, PostgreSQL, clean code, or which season of Prison Break is truly the best.**
