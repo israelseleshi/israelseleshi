@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Israel Theodros!
 
-### About Me
+### About Me 👨‍💻
 
 - 👨‍💻 **Information Systems Student (3rd Year)** at **Addis Ababa University** in Addis Ababa, Ethiopia.
 - 🌱 **ALX Data Science Course** participant, driven by an insatiable curiosity and a commitment to continuous learning. 📈
@@ -15,12 +15,12 @@
 
 ---
 
-### My Skills & Technologies
+### My Skills & Technologies 🛠️
 
 Here are some of the technologies and tools I work with:
 
 **Languages:**
-`Python` `SQL` `JavaScript` `Java` `C++` 
+`Python` `SQL` `JavaScript` `Java` `C++`
 
 **Frontend:**
 `HTML` `CSS` `React` `Tailwind CSS` `Bootstrap CSS`
@@ -32,11 +32,11 @@ Here are some of the technologies and tools I work with:
 `PostgreSQL` `Firebase Firestore` `MySQL` `SQLServer`
 
 **Tools & Platforms:**
-`Git` `GitHub` `Visual Studio Code` ``
+`Git` `GitHub` `Visual Studio Code`
 
 ---
 
-### My Latest Projects
+### My Latest Projects 🚀
 
 Here are a few projects I'm proud of or currently working on. You can link to your repositories!
 
@@ -48,14 +48,14 @@ Here are a few projects I'm proud of or currently working on. You can link to yo
 
 ---
 
-### Connect with Me
+### Connect with Me 🌐
 
 You can find me on these platforms:
 
 * **LinkedIn:** [https://www.linkedin.com/in/israeltheodros/](https://www.linkedin.com/in/israeltheodros/)
 * **Twitter:** [https://twitter.com/israeltheodros](https://twitter.com/israeltheodros)
 * **Telegram:** [https://t.me/israeltheodros](https://t.me/israeltheodros)
-* **Instagram:** [https://www.instagram.com/yourinstagramusername](https://www.instagram.com/yourinstagramusername)  <-- **NEW LINE ADDED**
+* **Instagram:** [https://www.instagram.com/yourinstagramusername](https://www.instagram.com/yourinstagramusername)
 * **Personal Website / Portfolio:** [https://israel-theodros-portfolio.netlify.app](https://israel-theodros-portfolio.netlify.app)
 
 ---
